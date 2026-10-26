@@ -1,0 +1,15 @@
+# Служебные каталоги — не часть прототипа
+research/
+shots/
+backup/
+deliverables/qa/
+
+# Чужие проекты / архивы в рабочей папке
+utka/
+vibe_images/
+utka-prototype.zip
+
+# Системное
+.DS_Store
+Thumbs.db
+*.log
